@@ -37,3 +37,8 @@ Open the project in your chosen development environment.
 Build the project.
 
 # Screenshots 
+![Screenshot 1](/screenshots/Task%202%20pic%201.png)
+![Screenshot 2](/screenshots/Task%202%20pic%202.png)
+![Screenshot 3](/screenshots/Task%202%20pic%203.png)
+![Screenshot 4](/screenshots/Task%202%20pic%204.png)
+![Screenshot 5](/screenshots/Task%202%20pic%205.png)
